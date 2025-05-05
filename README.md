@@ -1,4 +1,4 @@
-# Hey 👋 I'm Ryan
+# Hey! I'm Ryan 👋
 
 <div>
   <i>&#x0022;The people who are crazy enough to think they can change the world are the ones who do.&#x0022;</i>
