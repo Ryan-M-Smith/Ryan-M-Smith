@@ -40,7 +40,7 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-M-Smith&layout=compact&theme=dracula" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-M-Smith&layout=compact&theme=dracula&exclude_repo=TreeSearch" alt="Top Languages"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Ryan-M-Smith&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="Stats"/>
 
 <!--
