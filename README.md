@@ -32,7 +32,9 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&fill=149ECA" alt="React"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&text=false&fill=000000" alt="Next.js"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&text=false&fill=336791" alt="PostgreSQL"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=graphql&text=false&fill=E10098" alt="GraphQL"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&fill=41CD52" alt="Qt"/>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=electron&text=false&fill=2C2E39" alt="Electron"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=F05032" alt="Git"/>
 </div>
 
