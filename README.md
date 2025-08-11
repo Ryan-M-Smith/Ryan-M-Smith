@@ -43,7 +43,9 @@
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-M-Smith&layout=compact&theme=dracula&exclude_repo=TreeSearch" alt="Top Languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Ryan-M-Smith&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" alt="Stats"/>
+
+<!-- include_all_commits=true -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ryan-M-Smith&count_private=true&show_icons=true&theme=dracula" alt="Stats"/>
 
 <!--
 **Ryan-M-Smith/Ryan-M-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
