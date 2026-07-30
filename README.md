@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 **Favorite Language:** C++
 <br/>
-<a href="https://1drv.ms/w/c/dc8b04226c8083be/IQC7PciWLnBFQ6WVf-QHF9u7AY3nky4xG85tgrkhT0rXld4?e=DOLohd" target="_blank">
+<a href="https://resume-ryan-smith.tiiny.site" target="_blank">
   **View My Resume**
 </a>
 
