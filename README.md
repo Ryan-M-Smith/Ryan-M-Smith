@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <br/>
 **Favorite Language:** C++
 <br/>
-[**View My Resume**](https://1drv.ms/w/c/dc8b04226c8083be/IQC7PciWLnBFQ6WVf-QHF9u7AY3nky4xG85tgrkhT0rXld4?e=DOLohd)
+<a href="https://1drv.ms/w/c/dc8b04226c8083be/IQC7PciWLnBFQ6WVf-QHF9u7AY3nky4xG85tgrkhT0rXld4?e=DOLohd" target="_blank">
+  **View My Resume**
+</a>
 
 ## Languages, Frameworks, and Tools
 
