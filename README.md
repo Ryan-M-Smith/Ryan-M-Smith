@@ -1,3 +1,18 @@
+<!--
+**Ryan-M-Smith/Ryan-M-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # Hey! I'm Ryan 👋
 
 <div>
@@ -6,8 +21,6 @@
   <b>Steve Jobs</b>
 </div>
 
-<br/>
-
 ## About Me
 
 **Education:** B.S. Computer Science - Juniata College (Expected 2027)
@@ -15,12 +28,12 @@
 **Interests:** Machine learning, AI, computer architecture, desktop applications, full-stack web development, algorithms
 <br/>
 **Favorite Language:** C++
-
 <br/>
+[**View My Resume**](https://1drv.ms/w/c/dc8b04226c8083be/IQC7PciWLnBFQ6WVf-QHF9u7AY3nky4xG85tgrkhT0rXld4?e=DOLohd)
 
 ## Languages, Frameworks, and Tools
 
-<div align="center">
+<div align="justify">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=808080" alt="C"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=0086D4" alt="C++"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&fill=ED1D25" alt="Java"/>
@@ -38,26 +51,13 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=git&text=false&fill=F05032" alt="Git"/>
 </div>
 
-<br/>
-
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-M-Smith&layout=compact&theme=dracula&exclude_repo=TreeSearch" alt="Top Languages"/>
-
-<!-- include_all_commits=true -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ryan-M-Smith&count_private=true&show_icons=true&theme=dracula" alt="Stats"/>
-
-<!--
-**Ryan-M-Smith/Ryan-M-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex">
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=Ryan-M-Smith&include_all_commits=true&show_icons=true&theme=github_dark"/>
+  
+  <!-- 30px transparent spacer -->
+  <img src="" alt=""/>
+  
+  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ryan-M-Smith&layout=compact&langs_count=8&theme=github_dark&exclude_repo=TreeSearch"/>
+</div>
