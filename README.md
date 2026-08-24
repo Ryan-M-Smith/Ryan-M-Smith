@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hey! I'm Ryan 👋
 
-<div>
-  <i>&#x0022;The people who are crazy enough to think they can change the world are the ones who do.&#x0022;</i>
+<blockquote style="display: flex; flex-direction: column">
+  <b>The people who are crazy enough to think they can change the world are the ones who do.</b>
   <br/>
-  <b>Steve Jobs</b>
-</div>
+  <i>&#x2014; Steve Jobs</i>
+</blockquote>
 
 ## About Me
 
@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 **Interests:** Machine learning, AI, computer architecture, desktop applications, full-stack web development, algorithms
 <br/>
 **Favorite Language:** C++
-<br/>
-<a href="https://resume-ryan-smith.tiiny.site" target="_blank">
-  **View My Resume**
+
+<a href="https://resume-ryan-smith.tiiny.site" target="_blank" rel="noopener noreferrer">
+  <img width="175px" alt="View My Resume" src="https://img.shields.io/badge/View%20My%20Resume%20-%20%23018EF5?style=for-the-badge&logo=readme&logoColor=%23FFFFFF&logoSize=auto&link=https%3A%2F%2Fresume-ryan-smith.tiiny.site">
 </a>
+
 
 ## Languages, Frameworks, and Tools
 
